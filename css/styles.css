@@ -1,0 +1,62 @@
+body {
+    font-family: Roboto, sans-serif;
+    background-color: #FFFFFF;
+}
+
+ul {
+    list-style-type: none;
+}
+
+a {
+    text-decoration: none;
+}
+
+.logo {
+        font-family: Raleway, sans-serif;
+        font-size: 18px;
+        font-weight: 800;
+        line-height: 21px;
+}
+       
+
+.logo-web {
+    color: #4D5AE5
+    ;
+}
+
+.logo-studio {
+    color: #2E2F42;
+}   
+
+.nav a {
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    color: #2E2F42;
+}
+
+.nav a:hover, 
+.nav a:focus {
+    color: #404BBF;
+}   
+
+.contacts a {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #2E2F42;
+}
+
+.contacts a:hover, 
+.contacts a:focus {
+    color: #404BBF;
+}   
+
+button {
+    cursor: pointer;
+}
+
+img {
+    width: 360px;
+    height: 300px;
+}
